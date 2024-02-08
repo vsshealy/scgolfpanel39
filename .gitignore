@@ -1,3 +1,5 @@
 .DS_Store
+assets/mockups
+assets/plugins
 node_modules
 vendor
